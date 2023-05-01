@@ -46,32 +46,32 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.imsyy.top/",
+    link: "http://119.23.252.248:8090/",
   },
   {
     icon: Cloud,
-    name: "网盘",
-    link: "https://pan.imsyy.top/",
+    name: "追剧",
+    link: "",
   },
   {
     icon: CompactDisc,
     name: "音乐",
-    link: "https://music.imsyy.top/",
+    link: "",
   },
   {
     icon: Compass,
-    name: "起始页",
-    link: "https://nav.imsyy.top/",
+    name: "搜索",
+    link: "",
   },
   {
     icon: Book,
     name: "网址集",
-    link: "https://web.imsyy.top/",
+    link: "",
   },
   {
     icon: Fire,
     name: "今日热榜",
-    link: "https://hot.imsyy.top/",
+    link: "",
   },
 ];
 
