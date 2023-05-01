@@ -45,7 +45,7 @@ import {
 let linksData = [
   {
     icon: Blog,
-    name: "博客",
+    name: "知识库",
     link: "http://119.23.252.248:8090/",
   },
   {
