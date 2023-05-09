@@ -45,8 +45,8 @@ import {
 let linksData = [
   {
     icon: Blog,
-    name: "知识库",
-    link: "http://119.23.252.248:8090/",
+    name: "博客",
+    link: "http://blog.wdxdt.top/",
   },
   {
     icon: Cloud,

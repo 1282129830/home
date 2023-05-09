@@ -16,7 +16,7 @@
       >&nbsp;&amp;
       <!-- 站点备案 -->
       <a href="https://beian.miit.gov.cn" target="_blank"
-        >豫ICP备2022018134号-1</a
+        >湘ICP备2023010568号</a
       >
     </div>
     <div class="lrc" v-show="store.playerState">
